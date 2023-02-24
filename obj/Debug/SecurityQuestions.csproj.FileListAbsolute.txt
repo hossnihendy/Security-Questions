@@ -1,0 +1,8 @@
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\obj\Debug\SecurityQuestions.csproj.AssemblyReference.cache
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\obj\Debug\SecurityQuestions.csproj.SuggestedBindingRedirects.cache
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\obj\Debug\SecurityQuestions.csproj.CoreCompileInputs.cache
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\bin\Debug\SecurityQuestions.exe.config
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\bin\Debug\SecurityQuestions.exe
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\bin\Debug\SecurityQuestions.pdb
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\obj\Debug\SecurityQuestions.exe
+C:\Users\HHKar\source\repos\SecurityQuestions\SecurityQuestions\obj\Debug\SecurityQuestions.pdb
